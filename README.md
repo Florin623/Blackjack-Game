@@ -56,13 +56,15 @@ check_cards
 7,negru
 
 3,rosu
-
+<br>
+<br>
+<br>
 Output:
 
 Pregatit pentru Blackjack
-
-
-
+<br>
+<br>
+<br>
 Input:
 
 shuffle_cards
@@ -86,8 +88,9 @@ shuffle_cards
 7,negru
 
 3,rosu
-
-
+<br>
+<br>
+<br>
 Output:
 
 
@@ -106,10 +109,10 @@ Output:
 3,rosu
 
 4,romb
-
-
+<br>
+<br>
+<br>
 Input:
-
 
 play_game
 
@@ -128,10 +131,10 @@ Andrei 100
 2 4 30 32 38 48
 
 3 24 27 34 45 48
-
-
+<br>
+<br>
+<br>
 Output:
-
 
 Mihai: 70
 
