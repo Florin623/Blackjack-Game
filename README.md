@@ -6,7 +6,7 @@ Console-based Blackjack game in C++, allowing users to check cards, shuffle card
 "shuffle_cards" command is used to shuffle the cards by using the LCG (Linear Congruential Generator) algorithm.
 
 "play_game" command is used to play games with n players where n is between 1 and 20. The stake is 10 euros for each player.
-
+newline 
 Examples of tests:
 
 Input:
