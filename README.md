@@ -9,7 +9,6 @@ Console-based Blackjack game in C++, allowing users to check cards, shuffle card
 <br>
 <br>
 <br>
-<br>
 Examples of tests:
 
 Input:
@@ -29,12 +28,13 @@ check_cards
 9,telefon
 
 7,negru
-
+<br>
+<br>
 Output:
 
 Pachet masluit
-
-
+<br>
+<br>
 Input:
 
 check_cards
