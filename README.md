@@ -30,9 +30,11 @@ check_cards
 7,negru
 <br>
 <br>
+<br>
 Output:
 
 Pachet masluit
+<br>
 <br>
 <br>
 Input:
